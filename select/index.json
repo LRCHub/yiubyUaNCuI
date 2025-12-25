@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "UNDER and OVER",
+  "base_artist": "THE ORAL CIGARETTES",
+  "createdAt": "2025-12-25T11:15:26.070589Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Under and Over It",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/01_Under_and_Over_It_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Under And Over It (Explicit)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/02_Under_And_Over_It_(Explicit)_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Under and Over It - Remix",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/03_Under_and_Over_It_-_Remix_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "02. Under and Over It",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/04_02._Under_and_Over_It_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "12. Under and Over It (Remix)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/05_12._Under_and_Over_It_(Remix)_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Under And Over It",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/06_Under_And_Over_It_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Under And Over It (Radio Edit)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/07_Under_And_Over_It_(Radio_Edit)_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Under and Over It",
+      "artist": "ファイヴ・フィンガー・デス・パンチ",
+      "has_synced": true,
+      "path": "select/08_Under_and_Over_It_ファイヴ・フィンガー・デス・パンチ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Under and Over It (live)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": false,
+      "path": "select/09_Under_and_Over_It_(live)_Five_Finger_Death_Punch.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Under and Over It (Remix)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/10_Under_and_Over_It_(Remix)_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Under and Over It (Remix)",
+      "artist": "Five Finger Death Punch",
+      "has_synced": true,
+      "path": "select/11_Under_and_Over_It_(Remix)_Five_Finger_Death_Punch.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "UNDER and OVER",
+      "artist": "THE ORAL CIGARETTES",
+      "has_synced": false,
+      "path": "select/pl_01_UNDER_and_OVER_THE_ORAL_CIGARETTES.txt"
+    }
+  ]
+}
